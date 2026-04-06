@@ -1,0 +1,20 @@
+{
+    "name": "stacksdao-sdk",
+    "version": "1.0.1",
+    "description": "Standalone SDK for StacksDao",
+    "workspaces": [
+        "packages/*"
+    ],
+    "scripts": {
+        "build": "npm run build --workspaces --if-present"
+    },
+    "devDependencies": {
+        "@types/node": "^20.0.0",
+        "typescript": "^5.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rayybamzz-lab/StacksDao.git"
+    },
+    "license": "MIT"
+}
