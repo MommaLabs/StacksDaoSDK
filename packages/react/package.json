@@ -1,6 +1,12 @@
 {
   "name": "@stacksdao/react",
-  "version": "1.0.2",
+  "version": "1.0.4",
+  "author": "Rayy",
+  "description": "React module for StacksDao SDK",
+  "homepage": "https://github.com/MommaLabs/StacksDaoSDK#readme",
+  "bugs": {
+    "url": "https://github.com/MommaLabs/StacksDaoSDK/issues"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {

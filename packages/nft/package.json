@@ -1,8 +1,14 @@
 {
   "name": "@stacksdao/nft",
-  "version": "1.0.2",
+  "version": "1.0.4",
+  "author": "Rayy",
+  "description": "NFT module for StacksDao SDK",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "homepage": "https://github.com/MommaLabs/StacksDaoSDK#readme",
+  "bugs": {
+    "url": "https://github.com/MommaLabs/StacksDaoSDK/issues"
+  },
   "scripts": {
     "build": "tsc -b"
   },

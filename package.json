@@ -1,7 +1,12 @@
 {
     "name": "stacksdao-sdk",
-    "version": "1.0.1",
+    "version": "1.0.2",
+    "author": "Rayy",
     "description": "Standalone SDK for StacksDao",
+    "homepage": "https://github.com/MommaLabs/StacksDaoSDK#readme",
+    "bugs": {
+        "url": "https://github.com/MommaLabs/StacksDaoSDK/issues"
+    },
     "workspaces": [
         "packages/*"
     ],
@@ -12,9 +17,9 @@
         "@types/node": "^20.0.0",
         "typescript": "^5.0.0"
     },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MommaLabs/StacksDaoSDK.git"
-  },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MommaLabs/StacksDaoSDK.git"
+    },
     "license": "MIT"
 }
