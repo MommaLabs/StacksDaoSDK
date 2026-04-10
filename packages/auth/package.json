@@ -6,6 +6,27 @@
   "scripts": {
     "build": "tsc -b"
   },
+  "dependencies": {
+    "@stacksdao/cli": "*",
+    "@stacksdao/constants": "*",
+    "@stacksdao/core": "*",
+    "@stacksdao/dao": "*",
+    "@stacksdao/errors": "*",
+    "@stacksdao/events": "*",
+    "@stacksdao/governance-token": "*",
+    "@stacksdao/indexer": "*",
+    "@stacksdao/logger": "*",
+    "@stacksdao/network": "*",
+    "@stacksdao/nextjs": "*",
+    "@stacksdao/nft": "*",
+    "@stacksdao/queries": "*",
+    "@stacksdao/react": "*",
+    "@stacksdao/staking": "*",
+    "@stacksdao/testing": "*",
+    "@stacksdao/transactions": "*",
+    "@stacksdao/types": "*",
+    "@stacksdao/utils": "*"
+  },
   "publishConfig": {
     "access": "public"
   },
@@ -15,6 +36,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rayybamzz-lab/StacksDao.git"
+    "url": "git+https://github.com/MommaLabs/StacksDaoSDK.git"
   }
 }
